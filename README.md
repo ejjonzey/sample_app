@@ -23,6 +23,10 @@ Things you may want to cover:
 
 * ...
 
+# Heroku deployment
+
+https://whispering-peak-98964.herokuapp.com/
+
 # Ruby on Rails Tutorial sample application
 
 This is the sample application for
